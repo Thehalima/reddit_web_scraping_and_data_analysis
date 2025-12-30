@@ -1,4 +1,4 @@
-# reddit_web_scraping_and_data_analysis
+# Reddit Web Data Scraping and Analysis
 
 ## Project Overview
 This project looks at top posts from the subreddit r/AmItheAsshole. This subreddit was chosen because the posts are rich in content and engagement, making it suitable for analyzing post length, scores, comments, and members' interactions.
