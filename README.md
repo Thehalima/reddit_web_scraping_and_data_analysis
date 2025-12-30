@@ -4,9 +4,9 @@
 This project looks at top posts from the subreddit r/AmItheAsshole. This subreddit was chosen because the posts are rich in content and engagement, making it suitable for analyzing post length, scores, comments, and members' interactions.
 
 ## Files
-reddit_data_analytics.ipynb - full jupyter notebook
-AmItheAsshole_reddit_data.json - json file
-scraped_reddit_data.csv - Data in csv format
+- reddit_data_analytics.ipynb - full jupyter notebook
+- AmItheAsshole_reddit_data.json - json file
+- scraped_reddit_data.csv - Data in csv format
 
 ## Key Steps
 - Scraped data from reddit using
